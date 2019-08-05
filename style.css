@@ -118,7 +118,7 @@
   color: #fff;
 }
  #scrollUp {
-  background: #49a010 none repeat scroll 0 0;
+  background: #000080 none repeat scroll 0 0;
 }
  
 
@@ -174,7 +174,7 @@
     padding: 0 30px;
 }
 .about__btn a.btn:hover {
-    color: #49a010;
+    color: #000080;
 }
 .about__container {
     align-items: center;
@@ -516,7 +516,7 @@
     display: none;
 }
 .cr-slider-dots-1 ul.slick-dots li.slick-active button, .cr-slider-dots-1 ul.slick-dots li:hover button {
-	background: #49a010;
+	background: #000080;
 	-webkit-transform: scale(1.2);
 	-moz-transform: scale(1.2);
 	-ms-transform: scale(1.2);
@@ -544,7 +544,7 @@
     background: #fff none repeat scroll 0 0;
     border: 1px solid #fff;
     border-radius: 21px;
-    color: #49a010;
+    color: #000080;
     font-size: 18px;
     height: 43px;
     line-height: 41px;
@@ -735,7 +735,7 @@
     transition: all 0.3s ease 0s;
 }
 .blog__meta li a:hover {
-    color: #49a010;
+    color: #000080;
 }
 .blog{
     margin-top: 30px;
@@ -774,7 +774,7 @@
     text-transform: capitalize;
 }
 .contact__wrap {
-    border-bottom: 1px solid #49a010;
+    border-bottom: 1px solid #000080;
     padding: 70px 70px 50px;
 }
 .ht__address__info a {
@@ -804,7 +804,7 @@
     transition: all 0.3s ease 0s;
 }
 .ct__social__link li a span:hover {
-    color: #49a010;
+    color: #000080;
 }
 .title__line.title__line--3 {
   font-family: Open Sans;
@@ -896,19 +896,19 @@
     font-family: 'Rubik', sans-serif;
     font-size: 16px;
     font-weight: 500;
-    border: 1px solid #49a010;
-	background: #49a010 none repeat scroll 0 0;
-	border: 1px solid #49a010;
+    border: 1px solid #000080;
+	background: #000080 none repeat scroll 0 0;
+	border: 1px solid #000080;
 	color: #fff;
 	cursor:pointer;
 }
 .contact-btn .btn:hover{
     background: transparent;
-    border: 1px solid #49a010;
-    color: #49a010;
+    border: 1px solid #000080;
+    color: #000080;
 }
 .htc__contact__wrap {
-  border-bottom: 1px solid #49a010;
+  border-bottom: 1px solid #000080;
   margin-left: 0;
   margin-right: 0;
   padding: 70px 70px 50px;
@@ -957,7 +957,7 @@
     text-transform: capitalize;
 }
 .title__line--4::before {
-    background: #49a010 none repeat scroll 0 0;
+    background: #000080 none repeat scroll 0 0;
     bottom: 0;
     content: "";
     height: 2px;
@@ -995,8 +995,8 @@
     margin: 0 8px 15px;
 }
 .tag__list li a:hover {
-    background: #49a010 none repeat scroll 0 0;
-    border: 1px solid #49a010;
+    background: #000080 none repeat scroll 0 0;
+    border: 1px solid #000080;
     color: #fff;
 }
 .ht__tag {
@@ -1024,8 +1024,8 @@
   margin-top: 5px;
 }
 .ht__search a:hover {
-    background: #49a010 none repeat scroll 0 0;
-    border: 1px solid #49a010;
+    background: #000080 none repeat scroll 0 0;
+    border: 1px solid #000080;
 }
 .ht__search a:hover i {
     color: #fff;
@@ -1063,7 +1063,7 @@
     margin-left: 28px;
 }
 .bl__meta li i {
-  color: #49a010;
+  color: #000080;
   font-size: 18px;
   padding-right: 14px;
 }
@@ -1080,7 +1080,7 @@
 }
 .bl__meta li a:hover,
 .ht__blog__dtl h2 a:hover{
-    color: #49a010;
+    color: #000080;
 }
 
 .ht__bl__btn a {
@@ -1093,10 +1093,10 @@
     margin-top: 20px;
 }
 .ht__bl__btn a:hover {
-    color: #49a010;
+    color: #000080;
 }
 blockquote {
-    border-left: 2px solid #49a010;
+    border-left: 2px solid #000080;
     color: #333;
     font-size: 14px;
     font-style: italic;
@@ -1119,9 +1119,9 @@ blockquote {
     display: flex;
 }
 .bl__social__link li a i {
-    border: 1px solid #49a010;
+    border: 1px solid #000080;
     border-radius: 100%;
-    color: #49a010;
+    color: #000080;
     display: inline-block;
     font-size: 16px;
     height: 30px;
@@ -1134,8 +1134,8 @@ blockquote {
     margin-left: 15px;
 }
 .bl__social__link li a:hover i {
-    background: #49a010 none repeat scroll 0 0;
-    border: 1px solid #49a010;
+    background: #000080 none repeat scroll 0 0;
+    border: 1px solid #000080;
     color: #fff;
 }
 .page__btn li a {
@@ -1162,7 +1162,7 @@ blockquote {
     width: 1px;
 }
 .page__btn li:hover a {
-    color: #49a010;
+    color: #000080;
 }
 .page__btn li a i.icofont.icofont-long-arrow-left {
     padding-right: 11px;
@@ -1195,7 +1195,7 @@ blockquote {
   text-transform: capitalize;
 }
 .title__line--5::before {
-    background: #49a010 none repeat scroll 0 0;
+    background: #000080 none repeat scroll 0 0;
     bottom: 0;
     content: "";
     height: 2px;
@@ -1233,7 +1233,7 @@ blockquote {
     color: #333;
 }
 .replay__btn a i {
-    color: #49a010;
+    color: #000080;
     font-size: 16px;
     padding-right: 10px;
 }
@@ -1325,8 +1325,8 @@ blockquote {
     height: 44px;
     line-height: 41px;
     padding: 0 32px;
-	background: #49a010 none repeat scroll 0 0;
-	border: 1px solid #49a010;
+	background: #000080 none repeat scroll 0 0;
+	border: 1px solid #000080;
 	color: #fff;
 }
 .page__container {
@@ -1354,8 +1354,8 @@ blockquote {
 }
 .pagenation li a:hover,
 .pagenation li.active a {
-    background: #49a010 none repeat scroll 0 0;
-    border: 1px solid #49a010;
+    background: #000080 none repeat scroll 0 0;
+    border: 1px solid #000080;
     color: #fff;
 }
 .older li a,
@@ -1376,7 +1376,7 @@ blockquote {
 }
 .older li a:hover,
 .new li a:hover{
-    color: #49a010;
+    color: #000080;
 }
 /*-------------------
   15. Others Code
@@ -1395,8 +1395,8 @@ blockquote {
     width: 100%;
 }
 .cmnt__btn a.btn:hover {
-    color: #49a010;
-	border-color:#49a010;
+    color: #000080;
+	border-color:#000080;
 	background:transparent;
 }
 /*==========================
@@ -1415,7 +1415,7 @@ blockquote {
   color:#fff;
 }
 .features-service-single::after {
-  background: #619d09 none repeat scroll 0 0;
+  background: #2121db none repeat scroll 0 0;
   content: "";
   height: 100%;
   left: 0;
@@ -1430,7 +1430,7 @@ blockquote {
 }
 .features-service-single:hover.features-service-single::after{transform: rotate(0deg) scale(1);opacity:1;visibility:visible;}
 .fes-ser-titel span i {
-  color: #619d09;
+  color: #2121db;
   font-size: 40px;
   margin-bottom: 5px;
 }
@@ -1442,7 +1442,7 @@ blockquote {
   margin: 22px 0 10px;
 }
 .fes-ser-hover {
-  background: #619d09 none repeat scroll 0 0;
+  background: #2121db none repeat scroll 0 0;
   display: block;
   height: 234px;
   left: 0;

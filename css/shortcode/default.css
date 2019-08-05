@@ -186,12 +186,12 @@ a {
 a:hover,
 a:focus,
 a:active {
-    color: #49a010;
+    color: #000080;
 }
 p a:hover,
 p a:focus,
 p a:active {
-    color: #49a010;
+    color: #000080;
 }
 h1 a,
 h2 a,
@@ -241,14 +241,14 @@ body {
   background: #fff;
 }
 .mark, mark {
-    background: #49a010 none repeat scroll 0 0;
+    background: #000080 none repeat scroll 0 0;
     color: #ffffff;
 }
 /*-------------------------------
   06. Bg-Color
 -------------------------------------*/
 .bg__theme {
-    background: #49a010;
+    background: #000080;
 }
 .bg__white {
   background: #fff;
@@ -311,7 +311,7 @@ body {
   09. Text Color
 --------------------------------*/
 .text--theme { 
-  color: #49a010;
+  color: #000080;
  }
 
 .text--white { 
@@ -329,7 +329,7 @@ body {
 ----------------------------*/
 
 .bg--1 {
-  background: rgba(0, 0, 0, 0) url("../../images/bg/1.jpg") no-repeat scroll center center / cover ;
+  background: rgba(0, 0, 0, 0) url("../../images/logo/irec.png") no-repeat scroll center center / cover ;
 }
 
  .bg--2 {
@@ -452,7 +452,7 @@ body {
 [data--theme__overlay]:before {
     position: absolute;
     content: '';
-    background: #49a010;
+    background: #000080;
     width: 100%;
     height: 100%;
     top: 0;
@@ -477,19 +477,19 @@ select {
 }
 input:focus {
     background: transparent;
-    border: 1px solid #49a010;
+    border: 1px solid #000080;
 }
 textarea {
     resize: none;
-    background: #49a010;
-    border: 1px solid #49a010;
+    background: #000080;
+    border: 1px solid #000080;
     padding: 10px;
     width: 100%;
     font-size: 14px;
 }
 textarea:focus {
     background: transparent;
-    border: 1px solid #49a010;
+    border: 1px solid #000080;
     outline: none;
 }
 /*----------------------------
@@ -699,17 +699,17 @@ p.error {
 ------------------------------------------*/
 
 *::-moz-selection {
-    background: #49a010;
+    background: #000080;
     color: #fff;
     text-shadow: none;
 }
 ::-moz-selection {
-    background: #49a010;
+    background: #000080;
     color: #fff;
     text-shadow: none;
 }
 ::selection {
-    background: #49a010;
+    background: #000080;
     color: #fff;
     text-shadow: none;
 }
@@ -741,19 +741,19 @@ input::-moz-placeholder {
   color: #444 !important;
   opacity: 1;
 }
-input::-webkit-input-placeholder { / Chrome/Opera/Safari /
+input::-webkit-input-placeholder {
   color: #444 !important;
   opacity: 1;
 }
-input::-moz-placeholder { / Firefox 19+ /
+input::-moz-placeholder {
   color: #444 !important;
   opacity: 1;
 }
-input:-ms-input-placeholder { / IE 10+ /
+input:-ms-input-placeholder {
   color: #444 !important;
   opacity: 1;
 }
-input:-moz-placeholder { / Firefox 18- /
+input:-moz-placeholder {
   color: #444 !important;
   opacity: 1;
 }

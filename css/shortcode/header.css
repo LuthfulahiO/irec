@@ -65,7 +65,7 @@
 }
 .phone img{margin-right:12px;}
 .slider__btn a {
-  background: rgba(255, 255, 255, 0.2) none repeat scroll 0 0;
+  background: #000080 none repeat scroll 0 0;
   border: 1px solid #555;
   color: #fff;
   display: inline-block;
@@ -78,9 +78,9 @@
   transition: all 0.3s ease 0s;
 }
 .slider__btn a:hover {
-    background: rgba(73, 160, 16, 0.8);
-    border: 1px solid #49a010;
-    color: #fff;
+    background: #fff;
+    border: 1px solid #000080;
+    color: #000080;
 }
 .header--2 .menu__btn .btn:hover {
   background: transparent none repeat scroll 0 0;
@@ -133,9 +133,9 @@
     justify-content: flex-end;
 }
 .social__icon li a i {
-    border: 1px solid #49a010;
+    border: 1px solid #000080;
     border-radius: 100%;
-    color: #49a010;
+    color: #000080;
     display: inline-block;
     font-size: 18px;
     height: 30px;
@@ -148,12 +148,12 @@
     margin-left: 13px;
 }
 .social__icon li a:hover i {
-    background: #49a010 none repeat scroll 0 0;
-    border: 1px solid #49a010;
+    background: #000080 none repeat scroll 0 0;
+    border: 1px solid #000080;
     color: #fff;
 }
 .contact li a span {
-    color: #49a010;
+    color: #000080;
     font-size: 16px;
     padding-right: 14px;
 }
@@ -277,7 +277,7 @@
   position: relative;
 }
 .header--2 .menumenu__container {
-  background: #49a010 none repeat scroll 0 0;
+  background: #000080 none repeat scroll 0 0;
   border-radius: 0;
 }
 .header--2 .mainmenu__wrap.sticky__header {
@@ -292,7 +292,7 @@
 .header--2 .menu__btn .btn {
   background: #fff none repeat scroll 0 0;
   border: 1px solid #fff;
-  color: #49a010;
+  color: #000080;
 }
 .btn.border__radi--none,
 .slider__btn a.btn.border__radi--none,
