@@ -1,0 +1,70 @@
+{
+  "Friend" : {
+    "undefined" : {
+      "undefined" : {
+        "isDeleted" : false,
+        "objectId" : 1360,
+        "updatedAt" : 1564820397795
+      }
+    }
+  },
+  "LastRead" : {
+    "undefined" : {
+      "undefined" : 1564522296904
+    }
+  },
+  "Message" : {
+    "undefined" : {
+      "undefined" : {
+        "createdAt" : 1566379151114,
+        "isDeleted" : true,
+        "updatedAt" : 1566379151114
+      }
+    }
+  },
+  "Messages" : {
+    "undefined" : {
+      "audio" : "",
+      "audio_duration" : 0,
+      "audio_md5" : "",
+      "chatId" : "13401339_1363",
+      "createdAt" : 1563816983264,
+      "extension" : ""
+    }
+  },
+  "Recent" : {
+    "undefined" : {
+      "undefined" : {
+        "businessUserId" : "830_830",
+        "chatId" : "1830_830",
+        "count" : 0,
+        "userStatus" : "offline"
+      }
+    }
+  },
+  "Status" : {
+    "undefined" : {
+      "undefined" : {
+        "chatId" : "undefined",
+        "createdAt" : 1566379158634,
+        "lastRead" : 1566379158634,
+        "objectId" : "1830_830",
+        "updatedAt" : 1566379158634
+      }
+    }
+  },
+  "Typing" : {
+    "undefined" : {
+      "undefined" : {
+        "chatId" : "21351_1394",
+        "typing" : false
+      }
+    }
+  },
+  "User" : {
+    "undefined" : {
+      "lastTerminate" : 1564477977438,
+      "status" : "offline"
+    }
+  }
+}
