@@ -385,9 +385,6 @@
     width: 100%;
 }
 
-.team:hover .team__thumb a::before {
-    opacity: 1;
-}
 
 .team {
     box-shadow: 0 5px 15px rgba(85, 85, 85, 0.2);
@@ -431,10 +428,6 @@
     width: 30px;
 }
 
-.team__social__link li a:hover i {
-    background: #555555;
-    color: #fff;
-}
 
 .team__details h4 {
     color: #333;
